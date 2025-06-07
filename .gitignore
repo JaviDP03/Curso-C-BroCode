@@ -1,0 +1,36 @@
+# Temporal Files
+**/*.o
+**/*.obj
+**/*.lo
+**/*.la
+**/*.a
+**/*.lib
+**/*.so
+**/*.so.*
+**/*.dll
+**/*.dylib
+**/*.exe
+**/*.out
+**/*.app
+**/*.i
+**/*.ii
+**/*.s
+**/*.su
+**/*.gcno
+**/*.gcda
+**/*.gcov
+
+# CMake
+**/CMakeFiles/
+**/CMakeCache.txt
+**/cmake_install.cmake
+**/Makefile
+**/build/
+**/debug/
+**/release/
+
+# Editors
+**/.idea/
+**/*.iml
+**/.vscode/
+**/.env/
